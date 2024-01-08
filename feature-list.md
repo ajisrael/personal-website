@@ -28,6 +28,7 @@
   - Walking sound
 
 ## In Progress:
+- Design and Implement Layout
 
 ## Complete:
 
